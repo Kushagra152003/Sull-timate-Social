@@ -24,7 +24,7 @@ Whether you're flying solo, looking for a date, or want to build a party squad, 
 
 **Current Version:** Beta v1.0.0
 
-### [⬇️ Click Here to Download APK](https://github.com/Varun-cmykq/Sull-timate-Social/releases/download/v1.0.0/app-release.apk)
+### [⬇️ Click Here to Download APK](https://github.com/Kushagra152003/Sull-timate-Social/releases/download/v1.0.0/app-release.apk)
 
 *(Link will be active once the release is created)*
 
