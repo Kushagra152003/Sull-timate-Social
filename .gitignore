@@ -1,0 +1,18 @@
+# Ignore EVERYTHING by default
+*
+
+# ! means "Don't ignore" (Allow these files)
+!README.md
+!assets/
+!assets/**
+!.gitignore
+
+# Explicitly ignore specific files/folders just to be safe
+.agent/
+.env
+.env.example
+google-services.json
+*.jks
+*.keystore
+*.md
+!README.md
